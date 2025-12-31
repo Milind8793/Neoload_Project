@@ -1,0 +1,22 @@
+POST https://petstore.octoperf.com/actions/Order.action HTTP/2.0
+content-length: 569
+cache-control: max-age=0
+sec-ch-ua: "Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+origin: https://petstore.octoperf.com
+content-type: application/x-www-form-urlencoded
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+referer: https://petstore.octoperf.com/actions/Order.action?newOrderForm=
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+cookie: JSESSIONID=588BF000E777F94703183AE627BFC714
+priority: u=0, i
+
+order.cardType=Visa&order.creditCard=999+9999+9999+9999&order.expiryDate=12%2F03&order.billToFirstName=Milind&order.billToLastName=Hanchate&order.billAddress1=901+San+Antonio+Road&order.billAddress2=MS+UCUP02-206&order.billCity=Palo+Alto&order.billState=CA&order.billZip=94303&order.billCountry=USA&newOrder=Continue&_sourcePage=hzZ6wStN85CdczKgg5Ym-xm4QS3G-XTiyuw9vjsqfFVI2h0HJ3CcwCmI4wu8XrUIYJVvUnk7gF-uumc3I47gSllckJc04alciU1vH1-3u4E%3D&__fp=o2I3IOqbnJs7pwH83aNcfqmfkXip0SVeeAw4l3g_pP2CghUjLu_POu1oef2qaNMWS3QabroAygf4Ii-hMqdX1wwo1-P1DRWAVEMKrxDMgubBMRO56fQbNQ%3D%3D

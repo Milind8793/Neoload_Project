@@ -1,0 +1,19 @@
+# Project description file
+
+project.name=PT_Sample
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.version=2025.3.0
+product.original.version=2025.3.0
+project.is-open-test-settings-after-upload=true
+project.id=6d3dd311-0a61-4c2f-948f-21c658254351
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+project.workspace=5e3acde2e860a132744ca916
+project.test-settings=93748113-bd14-413c-ac14-db1e85f521c5
+project.test-settings-name=Sample_JPET
